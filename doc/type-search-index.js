@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"graph","l":"CapGraph"},{"p":"graph","l":"Edge"},{"p":"graph.grader","l":"EgoGrader"},{"p":"graph.grader","l":"Grader"},{"p":"graph","l":"Graph"},{"p":"util","l":"GraphLoader"},{"p":"graph","l":"Node"},{"p":"graph.grader","l":"SCCGrader"}]
